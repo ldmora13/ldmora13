@@ -7,9 +7,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=astro" height="60" alt="astro logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" height="60" alt="astro logo" />
   <img width"12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="60" alt="tailwindcss logo"  />
   <img width="12" />
 </div>
 
@@ -21,14 +23,6 @@
   </a>
   <a href="https://www.instagram.com/luisdmora13/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31qhkvutyhykarb6h4y6uivc5f3y">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31qhkvutyhykarb6h4y6uivc5f3y&count=3" alt="Spotify recently played"  />
   </a>
 </div>
 
